@@ -3,5 +3,5 @@
 <hr/>
 
 <p align="center">
-  <img src="https://media.tenor.com/eW4ZfsFMIvMAAAAM/cat-computer.gif" width="220px" />
+  <img src="https://tenor.com/id/view/que-gif-7186098971682458274" />
 </p>
