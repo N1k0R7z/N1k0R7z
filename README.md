@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/N1K7z/N1K7z/main/p.png" width="150" style="border-radius: 50%;">
+
+### hi
+
+📫 reach me: [@discord]
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -8,5 +18,7 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=N1K7z&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1K7z&layout=compact&theme=radical)
+
+</div>
