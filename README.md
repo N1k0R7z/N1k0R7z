@@ -2,23 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/N1K7z/N1K7z/main/p.png" width="1400" style="border-radius: 50%;">
 
-### Hi there 👋 I'm Kiki
+---
+
+### 🛠️ bahasa yg gw sering pake:
+
+![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 📫 Reach me: [@ig/twitter/discord]
-
 ---
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=n1k7z&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1k7z&layout=compact&theme=radical)
 
 </div>
