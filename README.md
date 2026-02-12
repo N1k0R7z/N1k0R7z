@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/N1K7z/N1K7z/main/p.png" width="150" style="border-radius: 50%;">
-
-### hi
+<img src="https://raw.githubusercontent.com/N1K7z/N1K7z/main/p.png" width="150" style="border-radius: 100%;">
 
 📫 reach me: [@discord]
 
